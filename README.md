@@ -1,4 +1,3 @@
-![Logo do projeto](/icons/Rellusion.jpg)
 # 🌑 Rellusion
 
  Rellusion, aplicativo para visualização de realidade aumentada.
